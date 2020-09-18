@@ -8,6 +8,7 @@ import se.edu.inclass.task.TaskNameComparator;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
+import static java.util.stream.Collectors.toList;
 public class Main {
 
     private TaskNameComparator taskNameComparator;
